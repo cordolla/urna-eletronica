@@ -27,12 +27,12 @@ let etapas = [
         candidatos: [
             {
                 numero: '11',
-                nome: 'Goku',
-                partido: 'DBZ',
-                vice: 'Vegeta',
+                nome: 'Boca 09',
+                partido: '09',
+                vice: 'Kuririn',
                 fotos: [
-                    {url:'goku.jpg', legenda: 'Prefeito', small: false},
-                    {url:'vegeta.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url:'boca-09.jpg', legenda: 'Prefeito', small: false},
+                    {url:'kuririn.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
             },
             {
